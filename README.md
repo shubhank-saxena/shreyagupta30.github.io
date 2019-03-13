@@ -1,2 +1,2 @@
 # shreyagupta30.github.io
-This is my portfolio.
+Hello world! I am Shreya Gupta and this is my portfolio. :)
